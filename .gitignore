@@ -1,0 +1,15 @@
+# Build artifacts
+*.zip
+*.crx
+
+# Python artifacts (if any)
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
